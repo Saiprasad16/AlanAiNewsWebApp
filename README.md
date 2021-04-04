@@ -9,11 +9,11 @@ In this video, we're going to build a Conversational Voice Controlled React News
 
 Setup:
 Alan Ai Setup:
-- Create an Account on Alan Web:[a link] (https://alan.app/)
+- Create an Account on Alan Web: (https://alan.app/)
 - Login to an Account
 - Click on Create Voice Assistant button on Alan Ai Dashboard
 - After Creation of Voice Assistant Click on Open Project button.
-- Then Copy and Paste alanStudio.js into an Editor open on Alan Ai Studio Project Code.
+- Then Copy and Paste (https://github.com/Saiprasad16/AlanAiNewsWebApp/blob/master/alanStudio.js) into an Editor open on Alan Ai Studio Project Code.
 
 
 To Run Project:
